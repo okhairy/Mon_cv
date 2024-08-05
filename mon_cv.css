@@ -1,4 +1,4 @@
-body {
+/*body {
     background-color: rgb(14, 180, 192);
     display: flex;
     justify-content: center;
@@ -18,7 +18,7 @@ body {
     min-height: 800px;
     background-color: #ffffffc9;
     display: grid;
-}
+}*/
 .profile  {
     display: flex;
     align-items: center;
