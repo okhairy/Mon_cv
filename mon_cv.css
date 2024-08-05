@@ -24,6 +24,7 @@ body {         /*le corps niassy */
 position: relative;  
 background-color: #ffffffc9;
 padding: 40px;
+padding-top: 500px;
 }
 
 
@@ -191,3 +192,20 @@ padding: 40px;
     .texte{
         text-align: justify;
     }
+.profile{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+     
+    width: 90%;
+    height: 200px;
+    background-color: orange;
+    z-index: 10;
+    display: flex;
+    
+}
+.img1{
+    padding: 10px;
+    padding-left: 30px;
+}
+ 
