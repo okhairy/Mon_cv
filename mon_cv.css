@@ -1,0 +1,98 @@
+/* Les Modification de Thierno */
+
+
+#Contact {
+    padding-top: 350px;
+    text-align: center;
+}
+
+.Titre1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+    border: 2px solid orange;
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+    align-items: center;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+}
+
+.icone {
+    margin-right: 10px;
+    font-size: 2em;  
+    color: orange;
+    
+}
+
+.text {
+    line-height: 1.6; 
+}
+
+.stitre{
+    font-weight: bold;
+}
+#Skills{
+    padding-top: 200px;
+    text-align: center;
+}
+
+.sotitre{
+    font-size: 30x;
+    color: white;
+    font-weight: bold;
+}
+.percent{
+    position: relative;
+    width: 100%;
+    height: 10px;
+    border: 1px solid orange;
+    display: block;
+    margin-top: 5px;
+}
+.percent div{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    background: orange;
+}
+.Skills, ul, li {
+    margin: 10px;
+}
+#df{
+    margin-top: 750px;
+    display: block;
+    text-align: center;
+}
+.trait{
+    position: relative;
+    width: 65%;
+    height: 2px;
+    border: 1px solid white;
+    background: white;
+    margin-left: 75px;
+    margin-bottom: 20px;
+    
+}
+.ls{
+    font-size: 35px;
+    color: white;
+    padding: 10px;
+    padding-left: 5px;   
+}
+.dép{
+    padding-left: 40px;
+}
+.texte{
+    text-align: justify;
+}
+/* Fin du Modification de Thierno */
