@@ -2,31 +2,6 @@
 
 
 
-/* Les Modification de Thierno */
-
-/* body {
-    background-color: rgb(14, 180, 192);
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    min-height: 100vh  ;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
-}
-
-.container {
-
-
-    position: relative;
-    width: 100%;
-    margin: 50px;
-    max-width: 1000px;
-    min-height: 800px;
-    background-color: #ffffffc9;
-    display: grid;
-    grid-template-columns: 3fr 2fr;
-} */
-
 .container .cote-droite {
 position :relative;
 background-color: black;
